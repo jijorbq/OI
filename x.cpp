@@ -1,3 +1,4 @@
+// orz WJMZBMR
 #include <bits/stdc++.h>
 using namespace std;
 //#define che
